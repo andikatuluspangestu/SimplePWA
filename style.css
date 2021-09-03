@@ -1,0 +1,31 @@
+* {
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f0f0f0 !important;
+}
+
+body::-webkit-scrollbar {
+  display: none !important;
+}
+
+.nav-link {
+  background: none !important;
+  color: rgb(76, 0, 255) !important;
+  font-weight: bolder;
+}
+
+.active .icon {
+  filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg)
+    brightness(104%) contrast(97%) !important;
+}
+
+button {
+  border: none !important;
+}
+
+.text{
+  position: relative;
+  top: 50%;
+}

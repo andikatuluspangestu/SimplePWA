@@ -1,0 +1,16 @@
+{
+    "name": "Simple PWA Example",
+    "short_name": "PWA",
+    "description": "Contoh Penerapan PWA Sederhana",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "darkblue",
+    "background_color": "darkblue"
+}
